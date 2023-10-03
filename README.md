@@ -16,3 +16,51 @@ JavaScript has come a long way since its original implementation: it took a mere
 ```js
 console.log("Hello Everyone! How r u doing?)
 ```
+## DAY 2 & 3
+
+### Topic covered: Variables and Data Types
+
+**Variables are containers for storing data.**
+
+Variables in javascript can be declared in 4 ways:
+- Automatically
+- Using var
+- Using let
+- Using const
+
+**NOTE**
+
+The `var` keyword was used in all JavaScript code from 1995 to 2015.
+
+The `let` and `const` keywords were added to JavaScript in 2015.
+
+The `var` keyword should only be used in code written for older browsers.
+
+#### DATA TYPES
+
+Javascript has 8 Data Types
+1. String
+2. Number
+3. Bigint
+4. Boolean
+5. Undefined
+6. Null
+7. Symbol
+8. Object
+
+#### Operators
+
+There are different types of JavaScript operators:
+
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- String Operators
+- Logical Operators
+- Bitwise Operators
+- Ternary Operators
+- Type Operators
+
+
+
+
